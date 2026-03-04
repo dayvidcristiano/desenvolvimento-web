@@ -1,0 +1,5 @@
+node -v // identificar o node na maquina
+npm i -g typescript // baixar o typescript
+npx tsc --init
+npx tsc src/main.ts // rodar o cod ts
+node build/main.js // rodar o projeto
